@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="/assets/capa.png">
 </p>
 
 <br>
@@ -33,7 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 nesse projeto fiz uma atividade uma pagina de moveis planejados
 
-- [Visite o projeto online] (https://65200b29ffcf0908260c90b4--rainbow-profiterole-2a9b89.netlify.app/)
+- [Visite o projeto online] (https://khnum782.github.io/responsividade/)
+)
 
 ## 🔖 Layout
 
